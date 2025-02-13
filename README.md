@@ -11,8 +11,8 @@
 - Open Source Projects: Contributing to data-driven open-source initiatives or starting new ones.
 - Innovative Data Solutions: If you have an innovative idea for utilizing data or analytics, I’d love to collaborate and explore it!
 - 📫 How to reach me ...
-**Email**: ari07.dev@gmail.com
-**LinkedIn**: Hariharan Saravanan
+- **Email**: [ari07.dev@gmail.com](mailto:ari07.dev@gmail.com)
+- **LinkedIn**: [Hariharan Saravanan](https://www.linkedin.com/in/hariharan-saravanan17/)
 
 Feel free to reach out if you have any questions, need assistance with data analysis, or just want to connect!
 
