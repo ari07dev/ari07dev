@@ -23,7 +23,7 @@
 -Scikit-learn (Classification, regression, clustering)
   Cloud & Big Data Technologies:
 - Apache Hadoop
-  Version Control & Collaboration:
+Version Control & Collaboration:
 - Git (GitHub)
   
 📫 How to reach me ...
