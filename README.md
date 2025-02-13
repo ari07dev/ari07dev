@@ -10,20 +10,20 @@
 - Data Science: Working with machine learning models and algorithms to uncover trends and patterns.
 - Open Source Projects: Contributing to data-driven open-source initiatives or starting new ones.
 - Innovative Data Solutions: If you have an innovative idea for utilizing data or analytics, I’d love to collaborate and explore it!
- Technical Skills:
- Data Analysis & Visualization:
+  Technical Skills:
+  Data Analysis & Visualization:
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 - SQL (Data querying, aggregation, joining tables)
 - Excel
 - Tableau / Power BI (Data visualization and dashboard creation)
- Data Wrangling & Cleaning:
+  Data Wrangling & Cleaning:
 - Handling missing data, normalization, outlier detection
 - Data transformation (reshaping, aggregation, encoding)
- Machine Learning:
+  Machine Learning:
 -Scikit-learn (Classification, regression, clustering)
- Cloud & Big Data Technologies:
+  Cloud & Big Data Technologies:
 - Apache Hadoop
- Version Control & Collaboration:
+  Version Control & Collaboration:
 - Git (GitHub)
   
 📫 How to reach me ...
