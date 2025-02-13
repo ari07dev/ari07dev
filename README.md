@@ -10,7 +10,7 @@
 - Data Science: Working with machine learning models and algorithms to uncover trends and patterns.
 - Open Source Projects: Contributing to data-driven open-source initiatives or starting new ones.
 - Innovative Data Solutions: If you have an innovative idea for utilizing data or analytics, I’d love to collaborate and explore it!
-- 📫 How to reach me ...
+📫 How to reach me ...
 - **Email**: [ari07.dev@gmail.com](mailto:ari07.dev@gmail.com)
 - **LinkedIn**: [Hariharan Saravanan](https://www.linkedin.com/in/hariharan-saravanan17/)
 
