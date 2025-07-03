@@ -1,4 +1,4 @@
-👋 Hi, I’m @ari07dev
+👋 Hi, I’m Hariharan Saravanan
 
 🚀 I’m a MERN Stack Developer and AWS Cloud Architect passionate about building scalable web applications and cloud-native solutions.
 
@@ -16,7 +16,7 @@ Automation & DevOps: Streamlining CI/CD pipelines, infrastructure as code, and c
 
 📫 You can reach me at:
 
-Email: ari07.dev@gmail.com
+Email: hari12haran6@gmail.com
 
 LinkedIn: Hariharan Saravanan
 Feel free to connect — whether it’s to talk tech, collaborate on a project, or just say hi!
