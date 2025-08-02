@@ -1,28 +1,27 @@
 👋 Hi, I’m Hariharan Saravanan
 
-🚀 I’m a MERN Stack Developer and AWS Cloud Architect passionate about building scalable web applications and cloud-native solutions.
+🚀 I’m an aspiring Data Engineer passionate about building scalable data pipelines, cloud-based analytics solutions, and transforming raw data into meaningful insights.
 
-🎓 I’m currently pursuing my BE in Computer Science and Engineering, with a strong interest in backend development, DevOps, and leveraging cloud technologies to solve real-world problems.
+🎓 I’m currently pursuing my B.E. in Computer Science and Engineering at R.M.K. Engineering College, with a keen interest in data engineering, cloud computing, and backend systems.
 
-💡 I’m open to collaborating on projects involving:
+💡 I’m interested in collaborating on projects involving:
 
-Full-Stack Web Development: Building dynamic, responsive, and efficient applications using MongoDB, Express.js, React.js, and Node.js.
+Data Engineering: Building robust ETL pipelines using Python, SQL, and tools like Apache Airflow to enable efficient data processing.
 
-Cloud Architecture: Designing and deploying scalable solutions on AWS — from serverless apps to containerized workloads.
+Cloud Solutions: Designing data workflows and storage solutions using AWS services like S3, RDS, and Lambda.
 
-Open Source Projects: Contributing to backend and cloud-focused initiatives or launching innovative tools that improve developer workflows.
+Data Analytics: Creating dashboards and uncovering insights using MySQL, Python (Pandas/Matplotlib), and Tableau.
 
-Automation & DevOps: Streamlining CI/CD pipelines, infrastructure as code, and cloud cost optimization.
+Backend Development: Writing clean and modular backend logic with Node.js or Python to power data-driven applications.
 
 📫 You can reach me at:
 
 Email: hari12haran6@gmail.com
 
-LinkedIn: Hariharan Saravanan
-Feel free to connect — whether it’s to talk tech, collaborate on a project, or just say hi!
+LinkedIn: Hariharan Saravanan — Feel free to connect to discuss tech, projects, internships, or just to say hi!
 
 😄 My name is pronounced:
 Hariharan: HUH-ree-HAH-run
 Saravanan: SAH-rah-VAH-nun
 
-⚡ Fun Fact: I love designing efficient backend systems, but I also enjoy optimizing cloud costs and performance — a mix of logic and creativity!
+⚡ Fun Fact: I enjoy turning messy data into clean, structured gold — there’s something satisfying about solving data problems that power real decisions!
